@@ -1,0 +1,21 @@
+Software Name: CA Office PDF Utility
+Version: V1.0
+
+Tagline:
+Smart PDF Utility for CA Office Daily Work
+
+Short Description:
+CA Office PDF Utility is a desktop software for Chartered Accountants, tax professionals and office users to manage PDF work easily. It includes PDF Merger, PDF Compressor, PDF Editor, signing tools and privacy-focused local processing.
+
+Main Features:
+1. PDF Merger
+2. PDF Compressor
+3. PDF Editor
+4. All types of PDF signing
+5. Helps DPDP compliance because data is processed locally and not shared
+
+Contact Email:
+marutitechsolutions@gmail.com
+
+WhatsApp:
+8200808507
